@@ -49,8 +49,6 @@ header a {
 .bar {
     background-color: #f9f9fb;
     padding: 15px;
-    border-top: solid 1px #cdcdcd;
-    border-bottom: solid 1px #cdcdcd;
 }
 
 main {
@@ -65,16 +63,12 @@ main {
 }
 
 .anchors {
-    border-left: solid 1px #cdcdcd;
     padding-left: 15px;
-}
-
-.sidebar {
-    border-right: solid 1px #cdcdcd;
 }
 
 figure {
     text-align: center;
+    font-size: small;
 }
 
 table {
@@ -89,9 +83,4 @@ td {
 
 section {
     margin: 40px auto;
-}
-
-footer {
-    min-height: 100px;
-    border-top: solid 1px #cdcdcd;
 }
